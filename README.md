@@ -1,3 +1,8 @@
+> **foxnaim** · AI отвечает на звонки через Twilio
+>
+> Готовая основа под клиентский проект. Стек: TypeScript.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # OpenAI Realtime API with Twilio Quickstart
 
 Combine OpenAI's Realtime API and Twilio's phone calling capability to build an AI calling assistant.
